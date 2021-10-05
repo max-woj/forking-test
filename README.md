@@ -1,1 +1,4 @@
 # forking-test
+.
+adwwadawd
+dwad
